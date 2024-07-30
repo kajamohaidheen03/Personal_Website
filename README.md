@@ -63,7 +63,6 @@
     <p>Objective: To work for an organization that provides me the opportunity to improve my skills and knowledge for growth along with the organization.</p>
     <h3>Technical Qualification</h3>
     <ul>
-      <li>Java</li>
       <li>HTML</li>
       <li>CSS</li>
       <li>JavaScript</li>
@@ -73,9 +72,10 @@
     <h3>Area of Interest</h3>
     <ul>
       <li>Data Science</li>
-      <li>Artificial Intelligence</li>
-      <li>Machine Learning</li>
+      <li>UI and UX Designer</li>
+      <li>Data Engineer </li>
       <li>Frontend Developer</li>
+      <li>WordPress Engineer</li>
     </ul>
     <h3>Academic Qualification</h3>
     <p>Bachelor of Technology at Dr.N.G.P. Institute of Technology with CGPA: 8.14 (till 5th Semester)</p>
