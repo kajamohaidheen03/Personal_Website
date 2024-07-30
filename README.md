@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -15,14 +15,12 @@
       background-color: #333;
       color: #fff;
       padding: 20px;
-      text-align: center;
     }
 
     nav ul {
       list-style-type: none;
       margin: 0;
       padding: 0;
-      text-align: center;
     }
 
     nav ul li {
@@ -39,18 +37,6 @@
       padding: 20px;
     }
 
-    .about-section {
-      display: flex;
-      align-items: center;
-      margin-bottom: 20px;
-    }
-
-    .about-section img {
-      max-width: 150px;
-      border-radius: 50%;
-      margin-right: 20px;
-    }
-
     footer {
       background-color: #333;
       color: #fff;
@@ -61,7 +47,7 @@
 </head>
 <body>
   <header>
-    <h1 style="color:white;">KAJA MOHAIDHEEN I</h1>
+    <h1>KAJA MOHAIDHEEN I</h1>
     <nav>
       <ul>
         <li><a href="#about">About</a></li>
@@ -73,12 +59,7 @@
 
   <section id="about">
     <h2>About Me</h2>
-    <div class="about-section">
-      <img src="https://github.com/kajamohaidheen03/Personal_Website/blob/main/1722301531736%20(1).jpg" alt="Profile Picture">
-      <div>
-        <p><strong>Objective:</strong> To work for an organization that provides me the opportunity to improve my skills and knowledge for growth along with the organization.</p>
-      </div>
-    </div>
+    <p>Objective: To work for an organization that provides me the opportunity to improve my skills and knowledge for growth along with the organization.</p>
     <h3>Technical Qualification</h3>
     <ul>
       <li>HTML</li>
@@ -91,7 +72,7 @@
     <ul>
       <li>Data Science</li>
       <li>UI and UX Designer</li>
-      <li>Data Engineer</li>
+      <li>Data Engineer </li>
       <li>Frontend Developer</li>
       <li>WordPress Engineer</li>
     </ul>
@@ -123,4 +104,3 @@
   </footer>
 </body>
 </html>
-
