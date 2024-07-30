@@ -73,7 +73,7 @@
   <section id="about">
     <h2>About Me</h2>
     <div class="about-section">
-      <img src="your-image-url.jpg" alt="Profile Picture">
+      <img src="1722301531736 (1).jpg" alt="Profile Picture">
       <div>
         <p><strong>Objective:</strong> To work for an organization that provides me the opportunity to improve my skills and knowledge for growth along with the organization.</p>
       </div>
